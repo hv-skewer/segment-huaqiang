@@ -1,0 +1,118 @@
+2026-06-07 21:22:20,977 - __main__ - INFO - 使用YOLO模型: yolov8n-seg
+2026-06-07 21:22:20,983 - __main__ - INFO - 置信度阈值: 0.5
+2026-06-07 21:22:20,984 - __main__ - INFO - 计算设备: auto
+2026-06-07 21:22:24,290 - yolo_processor - INFO - YOLO模型加载成功: yolov8n-seg
+2026-06-07 21:22:24,290 - yolo_processor - INFO - 使用YOLO分割模型，支持实例分割
+2026-06-07 21:22:24,300 - __main__ - INFO - 开始处理视频: input/huaqiang-maigua.mp4
+2026-06-07 21:22:24,300 - __main__ - INFO - 输出路径: output/huaqiang_segmented.mp4
+2026-06-07 21:22:24,301 - yolo_processor - INFO - 开始YOLO处理...
+2026-06-07 21:22:24,359 - yolo_processor - ERROR - YOLO处理失败: Unknown format code 'd' for object of type 'float'
+2026-06-07 21:22:24,422 - __main__ - ERROR - 视频处理失败
+2026-06-07 21:33:52,313 - __main__ - INFO - 使用YOLO模型: yolov8n-seg
+2026-06-07 21:33:52,321 - __main__ - INFO - 置信度阈值: 0.5
+2026-06-07 21:33:52,321 - __main__ - INFO - 计算设备: auto
+2026-06-07 21:33:52,430 - yolo_processor - INFO - YOLO模型加载成功: yolov8n-seg
+2026-06-07 21:33:52,431 - yolo_processor - INFO - 使用YOLO分割模型，支持实例分割
+2026-06-07 21:33:52,442 - __main__ - INFO - 开始处理视频: input/huaqiang-maigua.mp4
+2026-06-07 21:33:52,443 - __main__ - INFO - 输出路径: output/huaqiang_segmented.mp4
+2026-06-07 21:33:52,443 - yolo_processor - INFO - 开始YOLO处理...
+2026-06-07 21:33:52,462 - yolo_processor - ERROR - YOLO处理失败: Unknown format code 'd' for object of type 'float'
+2026-06-07 21:33:52,491 - __main__ - ERROR - 视频处理失败
+2026-06-07 21:38:47,985 - __main__ - INFO - 使用YOLO模型: yolov8n-seg
+2026-06-07 21:38:47,995 - __main__ - INFO - 置信度阈值: 0.5
+2026-06-07 21:38:47,996 - __main__ - INFO - 计算设备: auto
+2026-06-07 21:38:48,104 - yolo_processor - INFO - YOLO模型加载成功: yolov8n-seg
+2026-06-07 21:38:48,104 - yolo_processor - INFO - 使用YOLO分割模型，支持实例分割
+2026-06-07 21:38:48,115 - __main__ - INFO - 开始处理视频: input/huaqiang-maigua.mp4
+2026-06-07 21:38:48,116 - __main__ - INFO - 输出路径: output/huaqiang_segmented.mp4
+2026-06-07 21:38:48,116 - yolo_processor - INFO - 开始YOLO处理...
+2026-06-07 21:38:48,135 - yolo_processor - ERROR - YOLO处理失败: Unknown format code 'd' for object of type 'float'
+2026-06-07 21:38:48,137 - __main__ - ERROR - 视频处理失败
+2026-06-07 21:44:45,805 - __main__ - INFO - 使用YOLO模型: yolov8n-seg
+2026-06-07 21:44:45,805 - __main__ - INFO - 置信度阈值: 0.5
+2026-06-07 21:44:45,805 - __main__ - INFO - 计算设备: auto
+2026-06-07 21:44:45,914 - yolo_processor - INFO - YOLO模型加载成功: yolov8n-seg
+2026-06-07 21:44:45,914 - yolo_processor - INFO - 使用YOLO分割模型，支持实例分割
+2026-06-07 21:44:45,914 - __main__ - INFO - 开始处理视频: input/huaqiang-maigua.mp4
+2026-06-07 21:44:45,915 - __main__ - INFO - 输出路径: output/huaqiang_segmented.mp4
+2026-06-07 21:44:45,915 - yolo_processor - INFO - 开始YOLO处理...
+2026-06-07 21:44:45,932 - yolo_processor - ERROR - YOLO处理失败: Unknown format code 'd' for object of type 'float'
+2026-06-07 21:44:45,933 - __main__ - ERROR - 视频处理失败
+2026-06-07 21:46:45,967 - __main__ - INFO - 使用YOLO模型: yolov8n-seg
+2026-06-07 21:46:45,967 - __main__ - INFO - 置信度阈值: 0.5
+2026-06-07 21:46:45,968 - __main__ - INFO - 计算设备: auto
+2026-06-07 21:46:46,095 - yolo_processor - INFO - YOLO模型加载成功: yolov8n-seg
+2026-06-07 21:46:46,095 - yolo_processor - INFO - 使用YOLO分割模型，支持实例分割
+2026-06-07 21:46:46,096 - __main__ - INFO - 开始处理视频: input/huaqiang-maigua.mp4
+2026-06-07 21:46:46,096 - __main__ - INFO - 输出路径: output/huaqiang_segmented.mp4
+2026-06-07 21:46:46,096 - yolo_processor - INFO - 开始YOLO处理...
+2026-06-07 21:46:46,116 - yolo_processor - ERROR - YOLO处理失败: Unknown format code 'd' for object of type 'float'
+2026-06-07 21:46:46,117 - __main__ - ERROR - 视频处理失败
+2026-06-07 21:51:51,815 - __main__ - INFO - 使用YOLO模型: yolov8n-seg
+2026-06-07 21:51:51,815 - __main__ - INFO - 置信度阈值: 0.5
+2026-06-07 21:51:51,815 - __main__ - INFO - 计算设备: auto
+2026-06-07 21:51:52,018 - yolo_processor - INFO - YOLO模型加载成功: yolov8n-seg
+2026-06-07 21:51:52,018 - yolo_processor - INFO - 使用YOLO分割模型，支持实例分割
+2026-06-07 21:51:52,018 - __main__ - INFO - 开始处理视频: input/huaqiang-maigua.mp4
+2026-06-07 21:51:52,018 - __main__ - INFO - 输出路径: output/huaqiang_segmented.mp4
+2026-06-07 21:51:52,018 - yolo_processor - INFO - 开始YOLO处理...
+2026-06-07 21:51:52,036 - yolo_processor - ERROR - YOLO处理失败: Unknown format code 'd' for object of type 'float'
+2026-06-07 21:51:52,054 - __main__ - ERROR - 视频处理失败
+2026-06-07 21:55:08,190 - __main__ - INFO - 使用YOLO模型: yolov8n-seg
+2026-06-07 21:55:08,190 - __main__ - INFO - 置信度阈值: 0.5
+2026-06-07 21:55:08,190 - __main__ - INFO - 计算设备: auto
+2026-06-07 21:55:08,294 - simple_yolo_processor - INFO - YOLO模型加载成功: yolov8n-seg
+2026-06-07 21:55:08,294 - simple_yolo_processor - INFO - 使用YOLO分割模型，支持实例分割
+2026-06-07 21:55:08,295 - __main__ - INFO - 开始处理视频: input/huaqiang-maigua.mp4
+2026-06-07 21:55:08,295 - __main__ - INFO - 输出路径: output/huaqiang_segmented.mp4
+2026-06-07 21:55:08,295 - simple_yolo_processor - INFO - 开始YOLO处理...
+2026-06-07 21:55:08,312 - simple_yolo_processor - ERROR - YOLO处理失败: Unknown format code 'd' for object of type 'float'
+2026-06-07 21:55:08,313 - __main__ - ERROR - 视频处理失败
+2026-06-07 21:57:06,712 - __main__ - INFO - 使用YOLO模型: yolov8n-seg
+2026-06-07 21:57:06,712 - __main__ - INFO - 置信度阈值: 0.5
+2026-06-07 21:57:06,713 - __main__ - INFO - 计算设备: auto
+2026-06-07 21:57:06,821 - simple_yolo_processor - INFO - YOLO模型加载成功: yolov8n-seg
+2026-06-07 21:57:06,822 - simple_yolo_processor - INFO - 使用YOLO分割模型，支持实例分割
+2026-06-07 21:57:06,822 - __main__ - INFO - 开始处理视频: input/huaqiang-maigua.mp4
+2026-06-07 21:57:06,822 - __main__ - INFO - 输出路径: output/huaqiang_segmented.mp4
+2026-06-07 21:57:06,822 - simple_yolo_processor - INFO - 开始YOLO处理...
+2026-06-07 21:57:06,839 - simple_yolo_processor - ERROR - YOLO处理失败: Unknown format code 'd' for object of type 'float'
+2026-06-07 21:57:06,840 - __main__ - ERROR - 视频处理失败
+2026-06-07 22:13:31,597 - __main__ - INFO - 使用YOLO模型: yolov8n-seg
+2026-06-07 22:13:31,597 - __main__ - INFO - 置信度阈值: 0.5
+2026-06-07 22:13:31,597 - __main__ - INFO - 计算设备: auto
+2026-06-07 22:13:31,702 - simple_yolo_processor - INFO - YOLO模型加载成功: yolov8n-seg
+2026-06-07 22:13:31,702 - simple_yolo_processor - INFO - 使用YOLO分割模型，支持实例分割
+2026-06-07 22:13:31,702 - __main__ - INFO - 开始处理视频: input/huaqiang-maigua.mp4
+2026-06-07 22:13:31,702 - __main__ - INFO - 输出路径: output/huaqiang_segmented.mp4
+2026-06-07 22:13:31,703 - simple_yolo_processor - INFO - 开始YOLO处理...
+2026-06-07 22:13:31,721 - simple_yolo_processor - INFO - 视频已分割为 5 个块
+2026-06-07 22:18:21,016 - __main__ - INFO - 使用YOLO模型: yolov8n-seg
+2026-06-07 22:18:21,017 - __main__ - INFO - 置信度阈值: 0.5
+2026-06-07 22:18:21,017 - __main__ - INFO - 计算设备: auto
+2026-06-07 22:18:21,325 - simple_yolo_processor - INFO - YOLO模型加载成功: yolov8n-seg
+2026-06-07 22:18:21,331 - simple_yolo_processor - INFO - 使用YOLO分割模型，支持实例分割
+2026-06-07 22:18:21,331 - __main__ - INFO - 开始处理视频: input/huaqiang-maigua.mp4
+2026-06-07 22:18:21,331 - __main__ - INFO - 输出路径: output/huaqiang_segmented.mp4
+2026-06-07 22:18:21,331 - simple_yolo_processor - INFO - 开始YOLO处理...
+2026-06-07 22:18:21,362 - simple_yolo_processor - INFO - 视频已分割为 5 个块
+2026-06-07 22:33:06,929 - simple_yolo_processor - INFO - 块处理完成: chunks\chunk_0000-0030.mp4
+2026-06-07 22:46:54,948 - simple_yolo_processor - INFO - 块处理完成: chunks\chunk_0030-0060.mp4
+2026-06-07 22:53:56,713 - __main__ - INFO - 使用YOLO模型: yolov8n-seg
+2026-06-07 22:53:56,714 - __main__ - INFO - 置信度阈值: 0.5
+2026-06-07 22:53:56,714 - __main__ - INFO - 计算设备: auto
+2026-06-07 22:53:56,821 - simple_yolo_processor - INFO - YOLO模型加载成功: yolov8n-seg
+2026-06-07 22:53:56,821 - simple_yolo_processor - INFO - 使用YOLO分割模型，支持实例分割
+2026-06-07 22:53:56,822 - __main__ - INFO - 开始处理视频: input/huaqiang-maigua.mp4
+2026-06-07 22:53:56,822 - __main__ - INFO - 输出路径: output/huaqiang_segmented.mp4
+2026-06-07 22:53:56,822 - simple_yolo_processor - INFO - 开始YOLO处理...
+2026-06-07 22:53:56,841 - simple_yolo_processor - INFO - 视频已分割为 5 个块
+2026-06-07 23:08:53,904 - simple_yolo_processor - INFO - 块处理完成: chunks\chunk_0000-0030.mp4
+2026-06-07 23:21:55,497 - simple_yolo_processor - INFO - 块处理完成: chunks\chunk_0030-0060.mp4
+2026-06-07 23:35:03,115 - simple_yolo_processor - INFO - 块处理完成: chunks\chunk_0060-0090.mp4
+2026-06-07 23:48:21,667 - simple_yolo_processor - INFO - 块处理完成: chunks\chunk_0090-0120.mp4
+2026-06-07 23:50:15,699 - simple_yolo_processor - INFO - 块处理完成: chunks\chunk_0120-0124.mp4
+2026-06-07 23:51:06,893 - simple_yolo_processor - INFO - 块合并完成: output/huaqiang_segmented.mp4
+2026-06-07 23:51:06,907 - simple_yolo_processor - INFO - YOLO处理完成！
+2026-06-07 23:51:06,908 - __main__ - INFO - 视频处理完成！
+2026-06-07 23:51:06,908 - __main__ - INFO - 输出文件: output/huaqiang_segmented.mp4

@@ -1,0 +1,1233 @@
+2026-06-07 14:55:54,696 - __main__ - INFO - 创建目录: models
+2026-06-07 14:55:54,697 - __main__ - INFO - 创建目录: input
+2026-06-07 14:55:54,700 - __main__ - INFO - 创建目录: output
+2026-06-07 14:55:54,700 - __main__ - INFO - 创建目录: temp
+2026-06-07 14:55:54,701 - __main__ - INFO - 创建目录: logs
+2026-06-07 14:55:54,701 - __main__ - INFO - 开始检测硬件环境...
+2026-06-07 14:55:54,702 - __main__ - INFO - 检测到设备: cpu
+2026-06-07 14:55:54,704 - __main__ - INFO - 系统内存: 5.9GB (可用: 2.3GB)
+2026-06-07 14:55:54,704 - __main__ - INFO - 使用低配置优化模式
+2026-06-07 14:55:56,332 - processor.chunked_processor - INFO - SAM模型加载成功: vit_b
+2026-06-07 14:55:56,333 - __main__ - INFO - ==================================================
+2026-06-07 14:55:56,341 - __main__ - INFO - 华强买瓜视频分割项目启动
+2026-06-07 14:55:56,341 - __main__ - INFO - ==================================================
+2026-06-07 14:55:56,341 - __main__ - INFO - 当前配置:
+2026-06-07 14:55:56,342 - __main__ - INFO -   处理模式: 低配置优化
+2026-06-07 14:55:56,342 - __main__ - INFO -   设备: cpu
+2026-06-07 14:55:56,342 - __main__ - INFO -   输入: input/huaqiang_maigua.mp4
+2026-06-07 14:55:56,343 - __main__ - INFO -   输出: output/huaqiang_segmented.mp4
+2026-06-07 14:57:43,998 - __main__ - INFO - 创建目录: models
+2026-06-07 14:57:44,001 - __main__ - INFO - 创建目录: input
+2026-06-07 14:57:44,001 - __main__ - INFO - 创建目录: output
+2026-06-07 14:57:44,002 - __main__ - INFO - 创建目录: temp
+2026-06-07 14:57:44,003 - __main__ - INFO - 创建目录: logs
+2026-06-07 14:57:44,003 - __main__ - INFO - 开始检测硬件环境...
+2026-06-07 14:57:44,003 - __main__ - INFO - 检测到设备: cpu
+2026-06-07 14:57:44,011 - __main__ - INFO - 系统内存: 5.9GB (可用: 2.3GB)
+2026-06-07 14:57:44,011 - __main__ - INFO - 使用低配置优化模式
+2026-06-07 14:57:45,598 - processor.chunked_processor - INFO - SAM模型加载成功: vit_b
+2026-06-07 14:57:45,598 - __main__ - INFO - ==================================================
+2026-06-07 14:57:45,598 - __main__ - INFO - 华强买瓜视频分割项目启动
+2026-06-07 14:57:45,599 - __main__ - INFO - ==================================================
+2026-06-07 14:57:45,599 - __main__ - INFO - 当前配置:
+2026-06-07 14:57:45,599 - __main__ - INFO -   处理模式: 低配置优化
+2026-06-07 14:57:45,599 - __main__ - INFO -   设备: cpu
+2026-06-07 14:57:45,599 - __main__ - INFO -   输入: input/huaqiang_maigua.mp4
+2026-06-07 14:57:45,599 - __main__ - INFO -   输出: output/huaqiang_segmented.mp4
+2026-06-07 14:57:45,600 - __main__ - INFO - 开始资源监控...
+2026-06-07 14:58:50,147 - __main__ - INFO - 创建目录: models
+2026-06-07 14:58:50,148 - __main__ - INFO - 创建目录: input
+2026-06-07 14:58:50,151 - __main__ - INFO - 创建目录: output
+2026-06-07 14:58:50,152 - __main__ - INFO - 创建目录: temp
+2026-06-07 14:58:50,152 - __main__ - INFO - 创建目录: logs
+2026-06-07 14:58:50,153 - __main__ - INFO - 开始检测硬件环境...
+2026-06-07 14:58:50,154 - __main__ - INFO - 检测到设备: cpu
+2026-06-07 14:58:50,157 - __main__ - INFO - 系统内存: 5.9GB (可用: 1.5GB)
+2026-06-07 14:58:50,157 - __main__ - INFO - 使用低配置优化模式
+2026-06-07 14:58:51,868 - processor.chunked_processor - INFO - SAM模型加载成功: vit_b
+2026-06-07 14:58:51,869 - __main__ - INFO - ==================================================
+2026-06-07 14:58:51,876 - __main__ - INFO - 华强买瓜视频分割项目启动
+2026-06-07 14:58:51,877 - __main__ - INFO - ==================================================
+2026-06-07 14:58:51,878 - __main__ - INFO - 当前配置:
+2026-06-07 14:58:51,878 - __main__ - INFO -   处理模式: 低配置优化
+2026-06-07 14:58:51,879 - __main__ - INFO -   设备: cpu
+2026-06-07 14:58:51,879 - __main__ - INFO -   输入: input/huaqiang_maigua.mp4
+2026-06-07 14:58:51,880 - __main__ - INFO -   输出: output/huaqiang_segmented.mp4
+2026-06-07 14:58:51,880 - __main__ - INFO - 开始资源监控...
+2026-06-07 15:11:59,977 - __main__ - INFO - 创建目录: models
+2026-06-07 15:11:59,978 - __main__ - INFO - 创建目录: input
+2026-06-07 15:11:59,978 - __main__ - INFO - 创建目录: output
+2026-06-07 15:11:59,979 - __main__ - INFO - 创建目录: temp
+2026-06-07 15:11:59,979 - __main__ - INFO - 创建目录: logs
+2026-06-07 15:11:59,979 - __main__ - INFO - 开始检测硬件环境...
+2026-06-07 15:11:59,979 - __main__ - INFO - 检测到设备: cpu
+2026-06-07 15:11:59,981 - __main__ - INFO - 系统内存: 5.9GB (可用: 2.8GB)
+2026-06-07 15:11:59,981 - __main__ - INFO - 使用低配置优化模式
+2026-06-07 15:12:02,084 - processor.chunked_processor - INFO - SAM模型加载成功: vit_b
+2026-06-07 15:12:02,085 - __main__ - INFO - ==================================================
+2026-06-07 15:12:02,085 - __main__ - INFO - 华强买瓜视频分割项目启动
+2026-06-07 15:12:02,085 - __main__ - INFO - ==================================================
+2026-06-07 15:12:02,085 - __main__ - INFO - 当前配置:
+2026-06-07 15:12:02,085 - __main__ - INFO -   处理模式: 低配置优化
+2026-06-07 15:12:02,085 - __main__ - INFO -   设备: cpu
+2026-06-07 15:12:02,085 - __main__ - INFO -   输入: input/huaqiang-maigua.mp4
+2026-06-07 15:12:02,085 - __main__ - INFO -   输出: output/huaqiang_segmented.mp4
+2026-06-07 15:12:02,085 - __main__ - INFO - 开始资源监控...
+2026-06-07 15:13:39,654 - __main__ - INFO - 创建目录: models
+2026-06-07 15:13:39,654 - __main__ - INFO - 创建目录: input
+2026-06-07 15:13:39,659 - __main__ - INFO - 创建目录: output
+2026-06-07 15:13:39,660 - __main__ - INFO - 创建目录: temp
+2026-06-07 15:13:39,661 - __main__ - INFO - 创建目录: logs
+2026-06-07 15:13:39,661 - __main__ - INFO - 开始检测硬件环境...
+2026-06-07 15:13:39,662 - __main__ - INFO - 检测到设备: cpu
+2026-06-07 15:13:39,664 - __main__ - INFO - 系统内存: 5.9GB (可用: 2.0GB)
+2026-06-07 15:13:39,664 - __main__ - INFO - 使用低配置优化模式
+2026-06-07 15:13:41,214 - processor.chunked_processor - INFO - SAM模型加载成功: vit_b
+2026-06-07 15:13:41,221 - __main__ - INFO - ==================================================
+2026-06-07 15:13:41,223 - __main__ - INFO - 华强买瓜视频分割项目启动
+2026-06-07 15:13:41,223 - __main__ - INFO - ==================================================
+2026-06-07 15:13:41,224 - __main__ - INFO - 当前配置:
+2026-06-07 15:13:41,225 - __main__ - INFO -   处理模式: 低配置优化
+2026-06-07 15:13:41,226 - __main__ - INFO -   设备: cpu
+2026-06-07 15:13:41,227 - __main__ - INFO -   输入: input/huaqiang-maigua.mp4
+2026-06-07 15:13:41,227 - __main__ - INFO -   输出: output/huaqiang_segmented.mp4
+2026-06-07 15:13:41,228 - __main__ - INFO - 开始资源监控...
+2026-06-07 15:24:09,002 - __main__ - INFO - 输入视频文件大小: 14.8MB
+2026-06-07 15:24:09,015 - __main__ - INFO - 开始处理视频...
+2026-06-07 15:24:09,037 - processor.optimized_processor - INFO - 开始优化处理...
+2026-06-07 15:24:09,085 - processor.optimized_processor - INFO - 视频信息: 3734帧, 124.5秒
+2026-06-07 15:24:09,086 - processor.optimized_processor - INFO - 检测到长视频，使用分块+优化策略
+2026-06-07 15:24:09,086 - processor.optimized_processor - INFO - 开始优化处理...
+2026-06-07 15:24:09,087 - processor.optimized_processor - INFO - 步骤1: 降采样处理...
+2026-06-07 15:24:09,271 - processor.optimized_processor - INFO - 开始降采样: 30.000010042852853fps -> 15fps
+2026-06-07 15:24:10,547 - processor.optimized_processor - INFO - 已处理 100 帧
+2026-06-07 15:24:11,536 - processor.optimized_processor - INFO - 已处理 200 帧
+2026-06-07 15:24:12,521 - processor.optimized_processor - INFO - 已处理 300 帧
+2026-06-07 15:24:13,621 - processor.optimized_processor - INFO - 已处理 400 帧
+2026-06-07 15:24:14,526 - processor.optimized_processor - INFO - 已处理 500 帧
+2026-06-07 15:24:15,432 - processor.optimized_processor - INFO - 已处理 600 帧
+2026-06-07 15:24:16,506 - processor.optimized_processor - INFO - 已处理 700 帧
+2026-06-07 15:24:17,440 - processor.optimized_processor - INFO - 已处理 800 帧
+2026-06-07 15:24:18,316 - processor.optimized_processor - INFO - 已处理 900 帧
+2026-06-07 15:24:19,302 - processor.optimized_processor - INFO - 已处理 1000 帧
+2026-06-07 15:24:20,320 - processor.optimized_processor - INFO - 已处理 1100 帧
+2026-06-07 15:24:21,246 - processor.optimized_processor - INFO - 已处理 1200 帧
+2026-06-07 15:24:22,263 - processor.optimized_processor - INFO - 已处理 1300 帧
+2026-06-07 15:24:23,241 - processor.optimized_processor - INFO - 已处理 1400 帧
+2026-06-07 15:24:24,077 - processor.optimized_processor - INFO - 已处理 1500 帧
+2026-06-07 15:24:24,957 - processor.optimized_processor - INFO - 已处理 1600 帧
+2026-06-07 15:24:26,019 - processor.optimized_processor - INFO - 已处理 1700 帧
+2026-06-07 15:24:26,870 - processor.optimized_processor - INFO - 已处理 1800 帧
+2026-06-07 15:24:27,762 - processor.optimized_processor - INFO - 已处理 1900 帧
+2026-06-07 15:24:28,805 - processor.optimized_processor - INFO - 已处理 2000 帧
+2026-06-07 15:24:29,701 - processor.optimized_processor - INFO - 已处理 2100 帧
+2026-06-07 15:24:30,588 - processor.optimized_processor - INFO - 已处理 2200 帧
+2026-06-07 15:24:31,675 - processor.optimized_processor - INFO - 已处理 2300 帧
+2026-06-07 15:24:32,509 - processor.optimized_processor - INFO - 已处理 2400 帧
+2026-06-07 15:24:33,395 - processor.optimized_processor - INFO - 已处理 2500 帧
+2026-06-07 15:24:34,459 - processor.optimized_processor - INFO - 已处理 2600 帧
+2026-06-07 15:24:35,405 - processor.optimized_processor - INFO - 已处理 2700 帧
+2026-06-07 15:24:36,304 - processor.optimized_processor - INFO - 已处理 2800 帧
+2026-06-07 15:24:37,276 - processor.optimized_processor - INFO - 已处理 2900 帧
+2026-06-07 15:24:38,254 - processor.optimized_processor - INFO - 已处理 3000 帧
+2026-06-07 15:24:39,200 - processor.optimized_processor - INFO - 已处理 3100 帧
+2026-06-07 15:24:40,274 - processor.optimized_processor - INFO - 已处理 3200 帧
+2026-06-07 15:24:41,359 - processor.optimized_processor - INFO - 已处理 3300 帧
+2026-06-07 15:24:42,344 - processor.optimized_processor - INFO - 已处理 3400 帧
+2026-06-07 15:24:43,459 - processor.optimized_processor - INFO - 已处理 3500 帧
+2026-06-07 15:24:44,400 - processor.optimized_processor - INFO - 已处理 3600 帧
+2026-06-07 15:24:45,322 - processor.optimized_processor - INFO - 已处理 3700 帧
+2026-06-07 15:24:45,684 - processor.optimized_processor - INFO - 降采样完成: temp/downsampled_15fps.mp4
+2026-06-07 15:24:45,685 - processor.optimized_processor - INFO - 步骤2: 懒分割处理...
+2026-06-07 15:24:45,960 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:46,072 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:46,183 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:46,287 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:46,381 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:46,471 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:46,558 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:46,645 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:46,717 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:46,786 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:46,857 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:46,925 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:46,990 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:47,046 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:47,114 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:47,185 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:47,250 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:47,323 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:47,391 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:47,475 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:47,537 - processor.optimized_processor - INFO - 已处理 100/1867 帧
+2026-06-07 15:24:47,545 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:47,625 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:47,695 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:47,764 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:47,831 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:47,894 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:47,962 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:48,033 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:48,101 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:48,175 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:48,244 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:48,312 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:48,381 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:48,446 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:48,514 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:48,578 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:48,642 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:48,701 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:48,766 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:48,835 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:48,893 - processor.optimized_processor - INFO - 已处理 200/1867 帧
+2026-06-07 15:24:48,903 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:48,987 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:49,086 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:49,189 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:49,280 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:49,356 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:49,448 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:49,529 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:49,626 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:49,703 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:49,773 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:49,841 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:49,908 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:49,976 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:50,041 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:50,110 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:50,177 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:50,243 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:50,310 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:50,375 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:50,437 - processor.optimized_processor - INFO - 已处理 300/1867 帧
+2026-06-07 15:24:50,446 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:50,515 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:50,580 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:50,645 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:50,710 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:50,778 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:50,842 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:50,908 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:50,971 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:51,036 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:51,104 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:51,172 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:51,237 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:51,294 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:51,356 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:51,422 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:51,486 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:51,553 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:51,619 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:51,702 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:51,758 - processor.optimized_processor - INFO - 已处理 400/1867 帧
+2026-06-07 15:24:51,768 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:51,832 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:51,899 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:51,965 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:52,080 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:52,167 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:52,276 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:52,359 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:52,441 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:52,520 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:52,604 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:52,683 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:52,748 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:52,810 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:52,873 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:52,936 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:52,999 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:53,057 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:53,126 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:53,192 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:53,248 - processor.optimized_processor - INFO - 已处理 500/1867 帧
+2026-06-07 15:24:53,258 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:53,332 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:53,398 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:53,464 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:53,534 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:53,602 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:53,668 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:53,738 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:53,809 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:53,866 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:53,931 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:53,999 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:54,064 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:54,135 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:54,201 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:54,269 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:54,336 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:54,401 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:54,468 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:54,534 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:54,591 - processor.optimized_processor - INFO - 已处理 600/1867 帧
+2026-06-07 15:24:54,602 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:54,662 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:54,726 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:54,792 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:54,860 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:54,928 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:55,012 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:55,112 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:55,213 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:55,294 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:55,378 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:55,459 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:55,552 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:55,639 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:55,709 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:55,773 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:55,845 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:55,914 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:55,975 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:56,039 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:56,094 - processor.optimized_processor - INFO - 已处理 700/1867 帧
+2026-06-07 15:24:56,108 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:56,171 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:56,237 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:56,300 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:56,364 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:56,422 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:56,482 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:56,543 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:56,605 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:56,670 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:56,732 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:56,799 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:56,865 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:56,925 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:56,990 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:57,052 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:57,116 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:57,172 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:57,232 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:57,297 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:57,353 - processor.optimized_processor - INFO - 已处理 800/1867 帧
+2026-06-07 15:24:57,365 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:57,430 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:57,492 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:57,552 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:57,614 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:57,677 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:57,741 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:57,805 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:57,868 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:57,932 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:58,004 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:58,098 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:58,219 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:58,297 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:58,385 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:58,469 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:58,543 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:58,638 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:58,725 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:58,789 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:58,846 - processor.optimized_processor - INFO - 已处理 900/1867 帧
+2026-06-07 15:24:58,855 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:58,920 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:58,983 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:59,051 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:59,119 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:59,187 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:59,254 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:59,318 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:59,385 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:59,452 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:59,523 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:59,589 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:59,653 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:59,710 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:59,768 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:59,835 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:59,896 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:24:59,962 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:00,058 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:00,124 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:00,181 - processor.optimized_processor - INFO - 已处理 1000/1867 帧
+2026-06-07 15:25:00,191 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:00,260 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:00,325 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:00,389 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:00,454 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:00,516 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:00,581 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:00,649 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:00,715 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:00,786 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:00,853 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:00,921 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:00,999 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:01,132 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:01,232 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:01,315 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:01,410 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:01,494 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:01,580 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:01,657 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:01,714 - processor.optimized_processor - INFO - 已处理 1100/1867 帧
+2026-06-07 15:25:01,724 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:01,800 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:01,865 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:01,928 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:01,992 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:02,057 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:02,141 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:02,203 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:02,266 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:02,322 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:02,389 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:02,456 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:02,522 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:02,587 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:02,649 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:02,712 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:02,776 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:02,840 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:02,904 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:02,967 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:03,023 - processor.optimized_processor - INFO - 已处理 1200/1867 帧
+2026-06-07 15:25:03,032 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:03,095 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:03,160 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:03,225 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:03,289 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:03,353 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:03,419 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:03,487 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:03,555 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:03,619 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:03,685 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:03,751 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:03,816 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:03,883 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:03,941 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:04,037 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:04,142 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:04,260 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:04,363 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:04,449 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:04,534 - processor.optimized_processor - INFO - 已处理 1300/1867 帧
+2026-06-07 15:25:04,553 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:04,649 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:04,740 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:04,806 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:04,869 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:04,932 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:04,997 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:05,066 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:05,135 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:05,206 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:05,272 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:05,338 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:05,404 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:05,468 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:05,535 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:05,600 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:05,666 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:05,726 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:05,789 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:05,859 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:05,918 - processor.optimized_processor - INFO - 已处理 1400/1867 帧
+2026-06-07 15:25:05,928 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:05,994 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:06,056 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:06,124 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:06,189 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:06,254 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:06,333 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:06,397 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:06,460 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:06,521 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:06,586 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:06,652 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:06,713 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:06,778 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:06,842 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:06,916 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:07,000 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:07,117 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:07,219 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:07,313 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:07,405 - processor.optimized_processor - INFO - 已处理 1500/1867 帧
+2026-06-07 15:25:07,416 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:07,493 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:07,578 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:07,663 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:07,729 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:07,795 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:07,861 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:07,926 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:07,992 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:08,060 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:08,129 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:08,196 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:08,261 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:08,326 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:08,414 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:08,484 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:08,550 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:08,615 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:08,684 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:08,752 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:08,814 - processor.optimized_processor - INFO - 已处理 1600/1867 帧
+2026-06-07 15:25:08,825 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:08,895 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:08,964 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:09,027 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:09,094 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:09,158 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:09,222 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:09,291 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:09,360 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:09,427 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:09,495 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:09,560 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:09,627 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:09,693 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:09,760 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:09,825 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:09,888 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:09,956 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:10,045 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:10,179 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:10,268 - processor.optimized_processor - INFO - 已处理 1700/1867 帧
+2026-06-07 15:25:10,287 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:10,373 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:10,468 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:10,558 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:10,662 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:10,740 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:10,807 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:10,877 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:10,942 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:11,007 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:11,071 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:11,135 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:11,201 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:11,265 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:11,333 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:11,396 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:11,461 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:11,528 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:11,592 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:11,658 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:11,714 - processor.optimized_processor - INFO - 已处理 1800/1867 帧
+2026-06-07 15:25:11,725 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:11,790 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:11,851 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:11,916 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:11,982 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:12,051 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:12,122 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:12,189 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:12,256 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:12,322 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:12,389 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:12,458 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:12,532 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:12,601 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:25:12,635 - processor.optimized_processor - INFO - 懒分割完成: output/huaqiang_segmented.mp4
+2026-06-07 15:25:12,641 - processor.optimized_processor - INFO - 临时文件清理完成
+2026-06-07 15:25:12,654 - processor.optimized_processor - INFO - 优化处理完成！
+2026-06-07 15:25:12,655 - __main__ - INFO - 视频处理完成！
+2026-06-07 15:25:12,655 - __main__ - INFO - 总耗时: 63.6秒
+2026-06-07 15:25:12,656 - __main__ - INFO - 输出文件: output/huaqiang_segmented.mp4
+2026-06-07 15:25:12,656 - __main__ - INFO - 输出文件大小: 24.0MB
+2026-06-07 15:25:12,657 - __main__ - INFO - 处理成功完成！
+2026-06-07 15:25:54,847 - __main__ - INFO - 创建目录: models
+2026-06-07 15:25:54,848 - __main__ - INFO - 创建目录: input
+2026-06-07 15:25:54,860 - __main__ - INFO - 创建目录: output
+2026-06-07 15:25:54,862 - __main__ - INFO - 创建目录: temp
+2026-06-07 15:25:54,867 - __main__ - INFO - 创建目录: logs
+2026-06-07 15:25:54,868 - __main__ - INFO - 开始检测硬件环境...
+2026-06-07 15:25:54,869 - __main__ - INFO - 检测到设备: cpu
+2026-06-07 15:25:54,871 - __main__ - INFO - 系统内存: 5.9GB (可用: 2.0GB)
+2026-06-07 15:25:54,872 - __main__ - INFO - 使用低配置优化模式
+2026-06-07 15:25:58,349 - processor.chunked_processor - INFO - SAM模型加载成功: vit_b
+2026-06-07 15:25:58,355 - __main__ - INFO - ==================================================
+2026-06-07 15:25:58,357 - __main__ - INFO - 华强买瓜视频分割项目启动
+2026-06-07 15:25:58,357 - __main__ - INFO - ==================================================
+2026-06-07 15:25:58,358 - __main__ - INFO - 当前配置:
+2026-06-07 15:25:58,359 - __main__ - INFO -   处理模式: 低配置优化
+2026-06-07 15:25:58,361 - __main__ - INFO -   设备: cpu
+2026-06-07 15:25:58,362 - __main__ - INFO -   输入: input/huaqiang-maigua.mp4
+2026-06-07 15:25:58,362 - __main__ - INFO -   输出: output/huaqiang_segmented.mp4
+2026-06-07 15:25:58,363 - __main__ - INFO - 开始资源监控...
+2026-06-07 15:25:58,367 - __main__ - INFO - 输入视频文件大小: 14.8MB
+2026-06-07 15:25:58,367 - __main__ - INFO - 开始处理视频...
+2026-06-07 15:25:58,368 - processor.optimized_processor - INFO - 开始优化处理...
+2026-06-07 15:25:58,475 - processor.optimized_processor - INFO - 视频信息: 3734帧, 124.5秒
+2026-06-07 15:25:58,476 - processor.optimized_processor - INFO - 检测到长视频，使用分块+优化策略
+2026-06-07 15:25:58,477 - processor.optimized_processor - INFO - 开始优化处理...
+2026-06-07 15:25:58,478 - processor.optimized_processor - INFO - 步骤1: 降采样处理...
+2026-06-07 15:25:58,497 - processor.optimized_processor - INFO - 开始降采样: 30.000010042852853fps -> 15fps
+2026-06-07 15:25:59,835 - processor.optimized_processor - INFO - 已处理 100 帧
+2026-06-07 15:26:01,435 - processor.optimized_processor - INFO - 已处理 200 帧
+2026-06-07 15:26:02,751 - processor.optimized_processor - INFO - 已处理 300 帧
+2026-06-07 15:26:03,784 - processor.optimized_processor - INFO - 已处理 400 帧
+2026-06-07 15:26:04,729 - processor.optimized_processor - INFO - 已处理 500 帧
+2026-06-07 15:26:05,816 - processor.optimized_processor - INFO - 已处理 600 帧
+2026-06-07 15:26:06,805 - processor.optimized_processor - INFO - 已处理 700 帧
+2026-06-07 15:26:07,735 - processor.optimized_processor - INFO - 已处理 800 帧
+2026-06-07 15:26:09,306 - processor.optimized_processor - INFO - 已处理 900 帧
+2026-06-07 15:26:10,261 - processor.optimized_processor - INFO - 已处理 1000 帧
+2026-06-07 15:26:11,244 - processor.optimized_processor - INFO - 已处理 1100 帧
+2026-06-07 15:26:12,266 - processor.optimized_processor - INFO - 已处理 1200 帧
+2026-06-07 15:26:13,285 - processor.optimized_processor - INFO - 已处理 1300 帧
+2026-06-07 15:26:14,142 - processor.optimized_processor - INFO - 已处理 1400 帧
+2026-06-07 15:26:15,028 - processor.optimized_processor - INFO - 已处理 1500 帧
+2026-06-07 15:26:16,066 - processor.optimized_processor - INFO - 已处理 1600 帧
+2026-06-07 15:26:16,948 - processor.optimized_processor - INFO - 已处理 1700 帧
+2026-06-07 15:26:17,775 - processor.optimized_processor - INFO - 已处理 1800 帧
+2026-06-07 15:26:18,896 - processor.optimized_processor - INFO - 已处理 1900 帧
+2026-06-07 15:26:19,748 - processor.optimized_processor - INFO - 已处理 2000 帧
+2026-06-07 15:26:20,643 - processor.optimized_processor - INFO - 已处理 2100 帧
+2026-06-07 15:26:21,752 - processor.optimized_processor - INFO - 已处理 2200 帧
+2026-06-07 15:26:22,626 - processor.optimized_processor - INFO - 已处理 2300 帧
+2026-06-07 15:26:23,484 - processor.optimized_processor - INFO - 已处理 2400 帧
+2026-06-07 15:26:24,517 - processor.optimized_processor - INFO - 已处理 2500 帧
+2026-06-07 15:26:25,458 - processor.optimized_processor - INFO - 已处理 2600 帧
+2026-06-07 15:26:26,359 - processor.optimized_processor - INFO - 已处理 2700 帧
+2026-06-07 15:26:27,369 - processor.optimized_processor - INFO - 已处理 2800 帧
+2026-06-07 15:26:28,304 - processor.optimized_processor - INFO - 已处理 2900 帧
+2026-06-07 15:26:29,181 - processor.optimized_processor - INFO - 已处理 3000 帧
+2026-06-07 15:26:30,229 - processor.optimized_processor - INFO - 已处理 3100 帧
+2026-06-07 15:26:31,281 - processor.optimized_processor - INFO - 已处理 3200 帧
+2026-06-07 15:26:32,298 - processor.optimized_processor - INFO - 已处理 3300 帧
+2026-06-07 15:26:33,420 - processor.optimized_processor - INFO - 已处理 3400 帧
+2026-06-07 15:26:34,436 - processor.optimized_processor - INFO - 已处理 3500 帧
+2026-06-07 15:26:35,322 - processor.optimized_processor - INFO - 已处理 3600 帧
+2026-06-07 15:26:36,428 - processor.optimized_processor - INFO - 已处理 3700 帧
+2026-06-07 15:26:36,811 - processor.optimized_processor - INFO - 降采样完成: temp/downsampled_15fps.mp4
+2026-06-07 15:26:36,813 - processor.optimized_processor - INFO - 步骤2: 懒分割处理...
+2026-06-07 15:26:36,857 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:36,920 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:36,986 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:37,058 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:37,125 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:37,194 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:37,262 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:37,329 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:37,399 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:37,470 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:37,540 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:37,608 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:37,674 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:37,733 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:37,814 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:37,918 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:38,004 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:38,083 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:38,149 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:38,219 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:38,278 - processor.optimized_processor - INFO - 已处理 100/1867 帧
+2026-06-07 15:26:38,289 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:38,356 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:38,428 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:38,497 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:38,565 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:38,623 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:38,690 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:38,761 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:38,828 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:38,902 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:38,986 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:39,074 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:39,197 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:39,291 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:39,380 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:39,470 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:39,556 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:39,635 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:39,705 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:39,774 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:39,833 - processor.optimized_processor - INFO - 已处理 200/1867 帧
+2026-06-07 15:26:39,852 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:39,932 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:40,018 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:40,085 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:40,151 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:40,216 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:40,288 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:40,353 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:40,425 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:40,481 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:40,545 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:40,613 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:40,679 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:40,746 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:40,814 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:40,880 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:40,947 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:41,014 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:41,082 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:41,147 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:41,206 - processor.optimized_processor - INFO - 已处理 300/1867 帧
+2026-06-07 15:26:41,216 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:41,280 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:41,347 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:41,415 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:41,480 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:41,546 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:41,612 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:41,678 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:41,743 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:41,815 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:41,884 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:41,951 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:42,029 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:42,160 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:42,280 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:42,366 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:42,462 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:42,561 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:42,647 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:42,725 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:42,803 - processor.optimized_processor - INFO - 已处理 400/1867 帧
+2026-06-07 15:26:42,815 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:42,884 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:42,947 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:43,012 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:43,079 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:43,136 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:43,199 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:43,265 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:43,328 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:43,393 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:43,460 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:43,524 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:43,588 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:43,650 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:43,714 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:43,777 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:43,841 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:43,899 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:43,960 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:44,024 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:44,083 - processor.optimized_processor - INFO - 已处理 500/1867 帧
+2026-06-07 15:26:44,094 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:44,164 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:44,234 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:44,324 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:44,400 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:44,469 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:44,537 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:44,601 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:44,667 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:44,722 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:44,786 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:44,854 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:44,919 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:45,006 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:45,134 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:45,223 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:45,325 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:45,418 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:45,507 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:45,595 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:45,671 - processor.optimized_processor - INFO - 已处理 600/1867 帧
+2026-06-07 15:26:45,679 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:45,740 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:45,806 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:45,874 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:45,942 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:46,008 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:46,075 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:46,140 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:46,205 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:46,270 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:46,347 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:46,421 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:46,500 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:46,561 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:46,623 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:46,687 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:46,749 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:46,813 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:46,876 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:46,939 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:46,995 - processor.optimized_processor - INFO - 已处理 700/1867 帧
+2026-06-07 15:26:47,004 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:47,076 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:47,144 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:47,207 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:47,268 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:47,325 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:47,384 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:47,452 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:47,513 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:47,577 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:47,640 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:47,703 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:47,769 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:47,831 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:47,896 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:47,963 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:48,046 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:48,173 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:48,268 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:48,347 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:48,423 - processor.optimized_processor - INFO - 已处理 800/1867 帧
+2026-06-07 15:26:48,456 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:48,548 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:48,657 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:48,726 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:48,788 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:48,849 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:48,913 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:48,976 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:49,044 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:49,102 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:49,165 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:49,228 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:49,291 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:49,355 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:49,418 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:49,479 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:49,542 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:49,604 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:49,669 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:49,733 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:49,788 - processor.optimized_processor - INFO - 已处理 900/1867 帧
+2026-06-07 15:26:49,798 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:49,859 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:49,922 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:49,991 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:50,057 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:50,124 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:50,189 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:50,252 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:50,317 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:50,384 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:50,459 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:50,528 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:50,603 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:50,663 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:50,749 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:50,811 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:50,872 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:50,935 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:51,001 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:51,095 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:51,205 - processor.optimized_processor - INFO - 已处理 1000/1867 帧
+2026-06-07 15:26:51,226 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:51,319 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:51,403 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:51,486 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:51,576 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:51,655 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:51,732 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:51,801 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:51,867 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:51,938 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:52,005 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:52,070 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:52,139 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:52,204 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:52,273 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:52,338 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:52,402 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:52,464 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:52,529 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:52,594 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:52,663 - processor.optimized_processor - INFO - 已处理 1100/1867 帧
+2026-06-07 15:26:52,676 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:52,742 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:52,809 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:52,877 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:52,959 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:53,037 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:53,105 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:53,168 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:53,229 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:53,288 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:53,353 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:53,419 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:53,483 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:53,547 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:53,610 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:53,670 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:53,733 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:53,796 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:53,860 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:53,926 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:53,986 - processor.optimized_processor - INFO - 已处理 1200/1867 帧
+2026-06-07 15:26:54,002 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:54,121 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:54,238 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:54,318 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:54,401 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:54,495 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:54,590 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:54,667 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:54,750 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:54,816 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:54,881 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:54,946 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:55,020 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:55,085 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:55,148 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:55,214 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:55,278 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:55,343 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:55,412 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:55,481 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:55,539 - processor.optimized_processor - INFO - 已处理 1300/1867 帧
+2026-06-07 15:26:55,550 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:55,616 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:55,684 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:55,750 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:55,815 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:55,875 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:55,937 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:56,004 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:56,068 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:56,138 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:56,201 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:56,265 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:56,333 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:56,399 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:56,470 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:56,534 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:56,599 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:56,661 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:56,729 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:56,806 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:56,866 - processor.optimized_processor - INFO - 已处理 1400/1867 帧
+2026-06-07 15:26:56,875 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:56,953 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:57,033 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:57,141 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:57,255 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:57,342 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:57,436 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:57,525 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:57,612 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:57,708 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:57,779 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:57,843 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:57,906 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:57,971 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:58,035 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:58,100 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:58,168 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:58,233 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:58,302 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:58,368 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:58,427 - processor.optimized_processor - INFO - 已处理 1500/1867 帧
+2026-06-07 15:26:58,437 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:58,500 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:58,567 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:58,632 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:58,703 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:58,773 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:58,839 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:58,917 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:58,982 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:59,047 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:59,115 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:59,180 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:59,243 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:59,311 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:59,383 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:59,455 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:59,518 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:59,587 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:59,658 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:59,728 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:59,786 - processor.optimized_processor - INFO - 已处理 1600/1867 帧
+2026-06-07 15:26:59,796 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:59,861 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:26:59,928 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:00,018 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:00,149 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:00,247 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:00,332 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:00,437 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:00,526 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:00,609 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:00,685 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:00,749 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:00,813 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:00,879 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:00,953 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:01,027 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:01,091 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:01,157 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:01,221 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:01,287 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:01,348 - processor.optimized_processor - INFO - 已处理 1700/1867 帧
+2026-06-07 15:27:01,357 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:01,446 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:01,519 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:01,592 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:01,659 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:01,727 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:01,790 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:01,857 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:01,925 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:01,988 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:02,050 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:02,116 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:02,181 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:02,246 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:02,313 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:02,378 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:02,442 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:02,507 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:02,573 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:02,641 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:02,697 - processor.optimized_processor - INFO - 已处理 1800/1867 帧
+2026-06-07 15:27:02,705 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:02,770 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:02,830 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:02,896 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:02,963 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:03,050 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:03,176 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:03,305 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:03,404 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:03,500 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:03,589 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:03,678 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:03,777 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:03,850 - processor.chunked_processor - WARNING - 帧处理失败: An image must be set with .set_image(...) before mask prediction.
+2026-06-07 15:27:03,876 - processor.optimized_processor - INFO - 懒分割完成: output/huaqiang_segmented.mp4
+2026-06-07 15:27:03,884 - processor.optimized_processor - INFO - 临时文件清理完成
+2026-06-07 15:27:03,891 - processor.optimized_processor - INFO - 优化处理完成！
+2026-06-07 15:27:03,892 - __main__ - INFO - 视频处理完成！
+2026-06-07 15:27:03,892 - __main__ - INFO - 总耗时: 65.5秒
+2026-06-07 15:27:03,893 - __main__ - INFO - 输出文件: output/huaqiang_segmented.mp4
+2026-06-07 15:27:03,894 - __main__ - INFO - 输出文件大小: 24.0MB
+2026-06-07 15:27:03,946 - __main__ - INFO - 处理成功完成！
+2026-06-07 15:41:01,015 - __main__ - INFO - 创建目录: models
+2026-06-07 15:41:01,016 - __main__ - INFO - 创建目录: input
+2026-06-07 15:41:01,027 - __main__ - INFO - 创建目录: output
+2026-06-07 15:41:01,028 - __main__ - INFO - 创建目录: temp
+2026-06-07 15:41:01,029 - __main__ - INFO - 创建目录: logs
+2026-06-07 15:41:01,030 - __main__ - INFO - 开始检测硬件环境...
+2026-06-07 15:41:01,031 - __main__ - INFO - 检测到设备: cpu
+2026-06-07 15:41:01,033 - __main__ - INFO - 系统内存: 5.9GB (可用: 3.0GB)
+2026-06-07 15:41:01,033 - __main__ - INFO - 使用低配置优化模式
+2026-06-07 15:41:02,543 - processor.chunked_processor - INFO - SAM模型加载成功: vit_b
+2026-06-07 15:41:02,543 - __main__ - INFO - ==================================================
+2026-06-07 15:41:02,551 - __main__ - INFO - 华强买瓜视频分割项目启动
+2026-06-07 15:41:02,551 - __main__ - INFO - ==================================================
+2026-06-07 15:41:02,552 - __main__ - INFO - 当前配置:
+2026-06-07 15:41:02,552 - __main__ - INFO -   处理模式: 低配置优化
+2026-06-07 15:41:02,553 - __main__ - INFO -   设备: cpu
+2026-06-07 15:41:02,553 - __main__ - INFO -   输入: input/huaqiang-maigua.mp4
+2026-06-07 15:41:02,554 - __main__ - INFO -   输出: output/huaqiang_segmented.mp4
+2026-06-07 15:41:02,555 - __main__ - INFO - 开始资源监控...
+2026-06-07 15:41:02,556 - __main__ - INFO - 输入视频文件大小: 14.8MB
+2026-06-07 15:41:02,556 - __main__ - INFO - 开始处理视频...
+2026-06-07 15:41:02,557 - processor.optimized_processor - INFO - 开始优化处理...
+2026-06-07 15:41:02,779 - processor.optimized_processor - INFO - 视频信息: 3734帧, 124.5秒
+2026-06-07 15:41:02,780 - processor.optimized_processor - INFO - 检测到长视频，使用分块+优化策略
+2026-06-07 15:41:02,785 - processor.optimized_processor - INFO - 开始优化处理...
+2026-06-07 15:41:02,786 - processor.optimized_processor - INFO - 步骤1: 降采样处理...
+2026-06-07 15:41:02,800 - processor.optimized_processor - INFO - 开始降采样: 30.000010042852853fps -> 15fps
+2026-06-07 15:41:03,790 - processor.optimized_processor - INFO - 已处理 100 帧
+2026-06-07 15:41:04,928 - processor.optimized_processor - INFO - 已处理 200 帧
+2026-06-07 15:41:05,906 - processor.optimized_processor - INFO - 已处理 300 帧
+2026-06-07 15:41:06,858 - processor.optimized_processor - INFO - 已处理 400 帧
+2026-06-07 15:41:07,888 - processor.optimized_processor - INFO - 已处理 500 帧
+2026-06-07 15:41:08,777 - processor.optimized_processor - INFO - 已处理 600 帧
+2026-06-07 15:41:09,753 - processor.optimized_processor - INFO - 已处理 700 帧
+2026-06-07 15:41:10,729 - processor.optimized_processor - INFO - 已处理 800 帧
+2026-06-07 15:41:11,600 - processor.optimized_processor - INFO - 已处理 900 帧
+2026-06-07 15:41:12,559 - processor.optimized_processor - INFO - 已处理 1000 帧
+2026-06-07 15:41:13,552 - processor.optimized_processor - INFO - 已处理 1100 帧
+2026-06-07 15:41:14,482 - processor.optimized_processor - INFO - 已处理 1200 帧
+2026-06-07 15:41:15,528 - processor.optimized_processor - INFO - 已处理 1300 帧
+2026-06-07 15:41:16,424 - processor.optimized_processor - INFO - 已处理 1400 帧
+2026-06-07 15:41:17,265 - processor.optimized_processor - INFO - 已处理 1500 帧
+2026-06-07 15:41:18,298 - processor.optimized_processor - INFO - 已处理 1600 帧
+2026-06-07 15:41:19,161 - processor.optimized_processor - INFO - 已处理 1700 帧
+2026-06-07 15:41:19,991 - processor.optimized_processor - INFO - 已处理 1800 帧
+2026-06-07 15:41:21,082 - processor.optimized_processor - INFO - 已处理 1900 帧
+2026-06-07 15:41:21,921 - processor.optimized_processor - INFO - 已处理 2000 帧
+2026-06-07 15:41:22,834 - processor.optimized_processor - INFO - 已处理 2100 帧
+2026-06-07 15:41:23,894 - processor.optimized_processor - INFO - 已处理 2200 帧
+2026-06-07 15:41:24,789 - processor.optimized_processor - INFO - 已处理 2300 帧
+2026-06-07 15:41:25,642 - processor.optimized_processor - INFO - 已处理 2400 帧
+2026-06-07 15:41:26,677 - processor.optimized_processor - INFO - 已处理 2500 帧
+2026-06-07 15:41:27,708 - processor.optimized_processor - INFO - 已处理 2600 帧
+2026-06-07 15:41:28,741 - processor.optimized_processor - INFO - 已处理 2700 帧
+2026-06-07 15:41:29,702 - processor.optimized_processor - INFO - 已处理 2800 帧
+2026-06-07 15:41:30,556 - processor.optimized_processor - INFO - 已处理 2900 帧
+2026-06-07 15:41:31,585 - processor.optimized_processor - INFO - 已处理 3000 帧
+2026-06-07 15:41:32,558 - processor.optimized_processor - INFO - 已处理 3100 帧
+2026-06-07 15:41:33,527 - processor.optimized_processor - INFO - 已处理 3200 帧
+2026-06-07 15:41:34,681 - processor.optimized_processor - INFO - 已处理 3300 帧
+2026-06-07 15:41:35,683 - processor.optimized_processor - INFO - 已处理 3400 帧
+2026-06-07 15:41:36,685 - processor.optimized_processor - INFO - 已处理 3500 帧
+2026-06-07 15:41:37,681 - processor.optimized_processor - INFO - 已处理 3600 帧
+2026-06-07 15:41:38,607 - processor.optimized_processor - INFO - 已处理 3700 帧
+2026-06-07 15:41:38,939 - processor.optimized_processor - INFO - 降采样完成: temp/downsampled_15fps.mp4
+2026-06-07 15:41:38,940 - processor.optimized_processor - INFO - 步骤2: 懒分割处理...
+2026-06-07 15:43:25,941 - processor.optimized_processor - WARNING - 临时文件清理失败
+2026-06-07 15:44:53,700 - __main__ - INFO - 创建目录: models
+2026-06-07 15:44:53,701 - __main__ - INFO - 创建目录: input
+2026-06-07 15:44:53,706 - __main__ - INFO - 创建目录: output
+2026-06-07 15:44:53,707 - __main__ - INFO - 创建目录: temp
+2026-06-07 15:44:53,708 - __main__ - INFO - 创建目录: logs
+2026-06-07 15:44:53,708 - __main__ - INFO - 开始检测硬件环境...
+2026-06-07 15:44:53,709 - __main__ - INFO - 检测到设备: cpu
+2026-06-07 15:44:53,711 - __main__ - INFO - 系统内存: 5.9GB (可用: 3.7GB)
+2026-06-07 15:44:53,712 - __main__ - INFO - 使用低配置优化模式
+2026-06-07 15:45:00,046 - processor.chunked_processor - INFO - SAM模型加载成功: vit_b
+2026-06-07 15:45:00,046 - __main__ - INFO - ==================================================
+2026-06-07 15:45:00,051 - __main__ - INFO - 华强买瓜视频分割项目启动
+2026-06-07 15:45:00,052 - __main__ - INFO - ==================================================
+2026-06-07 15:45:00,052 - __main__ - INFO - 当前配置:
+2026-06-07 15:45:00,053 - __main__ - INFO -   处理模式: 低配置优化
+2026-06-07 15:45:00,053 - __main__ - INFO -   设备: cpu
+2026-06-07 15:45:00,054 - __main__ - INFO -   输入: input/huaqiang-maigua.mp4
+2026-06-07 15:45:00,054 - __main__ - INFO -   输出: output/huaqiang_segmented.mp4
+2026-06-07 15:45:00,055 - __main__ - INFO - 开始资源监控...
+2026-06-07 15:45:00,056 - __main__ - INFO - 输入视频文件大小: 14.8MB
+2026-06-07 15:45:00,057 - __main__ - INFO - 开始处理视频...
+2026-06-07 15:45:00,057 - processor.optimized_processor - INFO - 开始优化处理...
+2026-06-07 15:45:00,162 - processor.optimized_processor - INFO - 视频信息: 3734帧, 124.5秒
+2026-06-07 15:45:00,162 - processor.optimized_processor - INFO - 检测到长视频，使用分块+优化策略
+2026-06-07 15:45:00,168 - processor.optimized_processor - INFO - 开始优化处理...
+2026-06-07 15:45:00,169 - processor.optimized_processor - INFO - 步骤1: 降采样处理...
+2026-06-07 15:45:00,183 - processor.optimized_processor - INFO - 开始降采样: 30.000010042852853fps -> 15fps
+2026-06-07 15:45:01,289 - processor.optimized_processor - INFO - 已处理 100 帧
+2026-06-07 15:45:02,365 - processor.optimized_processor - INFO - 已处理 200 帧
+2026-06-07 15:45:03,352 - processor.optimized_processor - INFO - 已处理 300 帧
+2026-06-07 15:45:04,403 - processor.optimized_processor - INFO - 已处理 400 帧
+2026-06-07 15:45:05,362 - processor.optimized_processor - INFO - 已处理 500 帧
+2026-06-07 15:45:06,270 - processor.optimized_processor - INFO - 已处理 600 帧
+2026-06-07 15:45:07,272 - processor.optimized_processor - INFO - 已处理 700 帧
+2026-06-07 15:45:08,260 - processor.optimized_processor - INFO - 已处理 800 帧
+2026-06-07 15:45:09,145 - processor.optimized_processor - INFO - 已处理 900 帧
+2026-06-07 15:45:10,049 - processor.optimized_processor - INFO - 已处理 1000 帧
+2026-06-07 15:45:11,126 - processor.optimized_processor - INFO - 已处理 1100 帧
+2026-06-07 15:45:12,065 - processor.optimized_processor - INFO - 已处理 1200 帧
+2026-06-07 15:45:12,971 - processor.optimized_processor - INFO - 已处理 1300 帧
+2026-06-07 15:45:14,039 - processor.optimized_processor - INFO - 已处理 1400 帧
+2026-06-07 15:45:14,895 - processor.optimized_processor - INFO - 已处理 1500 帧
+2026-06-07 15:45:15,777 - processor.optimized_processor - INFO - 已处理 1600 帧
+2026-06-07 15:45:16,829 - processor.optimized_processor - INFO - 已处理 1700 帧
+2026-06-07 15:45:17,677 - processor.optimized_processor - INFO - 已处理 1800 帧
+2026-06-07 15:45:18,596 - processor.optimized_processor - INFO - 已处理 1900 帧
+2026-06-07 15:45:19,597 - processor.optimized_processor - INFO - 已处理 2000 帧
+2026-06-07 15:45:20,544 - processor.optimized_processor - INFO - 已处理 2100 帧
+2026-06-07 15:45:21,443 - processor.optimized_processor - INFO - 已处理 2200 帧
+2026-06-07 15:45:22,457 - processor.optimized_processor - INFO - 已处理 2300 帧
+2026-06-07 15:45:23,351 - processor.optimized_processor - INFO - 已处理 2400 帧
+2026-06-07 15:45:24,246 - processor.optimized_processor - INFO - 已处理 2500 帧
+2026-06-07 15:45:25,296 - processor.optimized_processor - INFO - 已处理 2600 帧
+2026-06-07 15:45:26,268 - processor.optimized_processor - INFO - 已处理 2700 帧
+2026-06-07 15:45:27,187 - processor.optimized_processor - INFO - 已处理 2800 帧
+2026-06-07 15:45:28,091 - processor.optimized_processor - INFO - 已处理 2900 帧
+2026-06-07 15:45:29,152 - processor.optimized_processor - INFO - 已处理 3000 帧
+2026-06-07 15:45:30,098 - processor.optimized_processor - INFO - 已处理 3100 帧
+2026-06-07 15:45:31,171 - processor.optimized_processor - INFO - 已处理 3200 帧
+2026-06-07 15:45:32,279 - processor.optimized_processor - INFO - 已处理 3300 帧
+2026-06-07 15:45:33,291 - processor.optimized_processor - INFO - 已处理 3400 帧
+2026-06-07 15:45:34,358 - processor.optimized_processor - INFO - 已处理 3500 帧
+2026-06-07 15:45:35,319 - processor.optimized_processor - INFO - 已处理 3600 帧
+2026-06-07 15:45:36,254 - processor.optimized_processor - INFO - 已处理 3700 帧
+2026-06-07 15:45:36,589 - processor.optimized_processor - INFO - 降采样完成: temp/downsampled_15fps.mp4
+2026-06-07 15:45:36,590 - processor.optimized_processor - INFO - 步骤2: 懒分割处理...
+2026-06-07 15:57:39,232 - processor.optimized_processor - INFO - 已处理 100/1867 帧
+2026-06-07 16:09:14,345 - processor.optimized_processor - INFO - 已处理 200/1867 帧
+2026-06-07 16:20:47,682 - processor.optimized_processor - INFO - 已处理 300/1867 帧
+2026-06-07 16:32:22,564 - processor.optimized_processor - INFO - 已处理 400/1867 帧
+2026-06-07 16:43:56,859 - processor.optimized_processor - INFO - 已处理 500/1867 帧
+2026-06-07 16:55:30,392 - processor.optimized_processor - INFO - 已处理 600/1867 帧
+2026-06-07 17:07:04,235 - processor.optimized_processor - INFO - 已处理 700/1867 帧
+2026-06-07 17:18:38,172 - processor.optimized_processor - INFO - 已处理 800/1867 帧
+2026-06-07 17:30:20,283 - processor.optimized_processor - INFO - 已处理 900/1867 帧
+2026-06-07 17:41:52,849 - processor.optimized_processor - INFO - 已处理 1000/1867 帧
+2026-06-07 17:53:28,369 - processor.optimized_processor - INFO - 已处理 1100/1867 帧
+2026-06-07 18:04:59,754 - processor.optimized_processor - INFO - 已处理 1200/1867 帧
+2026-06-07 18:16:34,447 - processor.optimized_processor - INFO - 已处理 1300/1867 帧
+2026-06-07 18:28:05,158 - processor.optimized_processor - INFO - 已处理 1400/1867 帧
+2026-06-07 18:39:45,949 - processor.optimized_processor - INFO - 已处理 1500/1867 帧
+2026-06-07 18:52:07,177 - processor.optimized_processor - INFO - 已处理 1600/1867 帧
+2026-06-07 19:03:47,017 - processor.optimized_processor - INFO - 已处理 1700/1867 帧
+2026-06-07 19:15:20,692 - processor.optimized_processor - INFO - 已处理 1800/1867 帧
+2026-06-07 19:23:25,366 - processor.optimized_processor - INFO - 懒分割完成: output/huaqiang_segmented.mp4
+2026-06-07 19:23:25,373 - processor.optimized_processor - INFO - 临时文件清理完成
+2026-06-07 19:23:25,374 - processor.optimized_processor - INFO - 优化处理完成！
+2026-06-07 19:23:25,375 - __main__ - INFO - 视频处理完成！
+2026-06-07 19:23:25,376 - __main__ - INFO - 总耗时: 13105.3秒
+2026-06-07 19:23:25,376 - __main__ - INFO - 输出文件: output/huaqiang_segmented.mp4
+2026-06-07 19:23:25,378 - __main__ - INFO - 输出文件大小: 22.4MB
+2026-06-07 19:23:25,464 - __main__ - INFO - 处理成功完成！
+2026-06-07 19:43:33,274 - __main__ - INFO - 创建目录: models
+2026-06-07 19:43:33,275 - __main__ - INFO - 创建目录: input
+2026-06-07 19:43:33,278 - __main__ - INFO - 创建目录: output
+2026-06-07 19:43:33,279 - __main__ - INFO - 创建目录: temp
+2026-06-07 19:43:33,279 - __main__ - INFO - 创建目录: logs
+2026-06-07 19:43:33,279 - __main__ - INFO - 开始检测硬件环境...
+2026-06-07 19:43:33,280 - __main__ - INFO - 检测到设备: cpu
+2026-06-07 19:43:33,282 - __main__ - INFO - 系统内存: 5.9GB (可用: 3.2GB)
+2026-06-07 19:43:33,282 - __main__ - INFO - 使用低配置优化模式
+2026-06-07 19:43:39,925 - processor.chunked_processor - INFO - SAM模型加载成功: vit_b
+2026-06-07 19:43:39,926 - __main__ - INFO - ==================================================
+2026-06-07 19:43:39,931 - __main__ - INFO - 华强买瓜视频分割项目启动
+2026-06-07 19:43:39,931 - __main__ - INFO - ==================================================
+2026-06-07 19:43:39,932 - __main__ - INFO - 当前配置:
+2026-06-07 19:43:39,932 - __main__ - INFO -   处理模式: 低配置优化
+2026-06-07 19:43:39,932 - __main__ - INFO -   设备: cpu
+2026-06-07 19:43:39,932 - __main__ - INFO -   输入: input/huaqiang-maigua.mp4
+2026-06-07 19:43:39,932 - __main__ - INFO -   输出: output/huaqiang_segmented.mp4
+2026-06-07 19:43:39,932 - __main__ - INFO - 开始资源监控...
+2026-06-07 19:43:39,954 - __main__ - INFO - 输入视频文件大小: 14.8MB
+2026-06-07 19:43:39,954 - __main__ - INFO - 开始处理视频...
+2026-06-07 19:43:39,954 - processor.optimized_processor - INFO - 开始优化处理...
+2026-06-07 19:43:40,719 - processor.optimized_processor - INFO - 视频信息: 3734帧, 124.5秒
+2026-06-07 19:43:40,720 - processor.optimized_processor - INFO - 检测到长视频，使用分块+优化策略
+2026-06-07 19:43:40,731 - processor.optimized_processor - INFO - 开始优化处理...
+2026-06-07 19:43:40,731 - processor.optimized_processor - INFO - 步骤1: 降采样处理...
+2026-06-07 19:43:40,844 - processor.optimized_processor - INFO - 开始降采样: 30.000010042852853fps -> 30fps
+2026-06-07 19:43:42,558 - processor.optimized_processor - INFO - 已处理 100 帧
+2026-06-07 19:43:44,154 - processor.optimized_processor - INFO - 已处理 200 帧
+2026-06-07 19:43:45,529 - processor.optimized_processor - INFO - 已处理 300 帧
+2026-06-07 19:43:46,999 - processor.optimized_processor - INFO - 已处理 400 帧
+2026-06-07 19:43:48,292 - processor.optimized_processor - INFO - 已处理 500 帧
+2026-06-07 19:43:49,742 - processor.optimized_processor - INFO - 已处理 600 帧
+2026-06-07 19:43:51,005 - processor.optimized_processor - INFO - 已处理 700 帧
+2026-06-07 19:43:52,425 - processor.optimized_processor - INFO - 已处理 800 帧
+2026-06-07 19:43:53,721 - processor.optimized_processor - INFO - 已处理 900 帧
+2026-06-07 19:43:54,934 - processor.optimized_processor - INFO - 已处理 1000 帧
+2026-06-07 19:43:56,428 - processor.optimized_processor - INFO - 已处理 1100 帧
+2026-06-07 19:43:57,727 - processor.optimized_processor - INFO - 已处理 1200 帧
+2026-06-07 19:43:59,209 - processor.optimized_processor - INFO - 已处理 1300 帧
+2026-06-07 19:44:00,448 - processor.optimized_processor - INFO - 已处理 1400 帧
+2026-06-07 19:44:01,813 - processor.optimized_processor - INFO - 已处理 1500 帧
+2026-06-07 19:44:03,043 - processor.optimized_processor - INFO - 已处理 1600 帧
+2026-06-07 19:44:04,397 - processor.optimized_processor - INFO - 已处理 1700 帧
+2026-06-07 19:44:05,616 - processor.optimized_processor - INFO - 已处理 1800 帧
+2026-06-07 19:44:06,912 - processor.optimized_processor - INFO - 已处理 1900 帧
+2026-06-07 19:44:08,259 - processor.optimized_processor - INFO - 已处理 2000 帧
+2026-06-07 19:44:09,554 - processor.optimized_processor - INFO - 已处理 2100 帧
+2026-06-07 19:44:11,013 - processor.optimized_processor - INFO - 已处理 2200 帧
+2026-06-07 19:44:12,253 - processor.optimized_processor - INFO - 已处理 2300 帧
+2026-06-07 19:44:13,585 - processor.optimized_processor - INFO - 已处理 2400 帧
+2026-06-07 19:44:14,837 - processor.optimized_processor - INFO - 已处理 2500 帧
+2026-06-07 19:44:16,182 - processor.optimized_processor - INFO - 已处理 2600 帧
+2026-06-07 19:44:17,583 - processor.optimized_processor - INFO - 已处理 2700 帧
+2026-06-07 19:44:18,847 - processor.optimized_processor - INFO - 已处理 2800 帧
+2026-06-07 19:44:20,228 - processor.optimized_processor - INFO - 已处理 2900 帧
+2026-06-07 19:44:21,498 - processor.optimized_processor - INFO - 已处理 3000 帧
+2026-06-07 19:44:23,002 - processor.optimized_processor - INFO - 已处理 3100 帧
+2026-06-07 19:44:24,377 - processor.optimized_processor - INFO - 已处理 3200 帧
+2026-06-07 19:44:25,994 - processor.optimized_processor - INFO - 已处理 3300 帧
+2026-06-07 19:44:27,426 - processor.optimized_processor - INFO - 已处理 3400 帧
+2026-06-07 19:44:28,954 - processor.optimized_processor - INFO - 已处理 3500 帧
+2026-06-07 19:44:30,236 - processor.optimized_processor - INFO - 已处理 3600 帧
+2026-06-07 19:44:31,767 - processor.optimized_processor - INFO - 已处理 3700 帧
+2026-06-07 19:44:32,283 - processor.optimized_processor - INFO - 降采样完成: temp/downsampled_30fps.mp4
+2026-06-07 19:44:32,283 - processor.optimized_processor - INFO - 步骤2: 懒分割处理...
+2026-06-07 19:58:06,661 - processor.optimized_processor - WARNING - 临时文件清理失败
