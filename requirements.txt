@@ -1,0 +1,47 @@
+# 项目依赖库列表
+# 基础依赖
+opencv-python>=4.5.0
+numpy>=1.19.0
+torch>=1.7.0
+torchvision>=0.8.0
+Pillow>=8.0.0
+tqdm>=4.60.0
+
+# Segment Anything
+segment-anything>=1.0
+git+https://github.com/facebookresearch/segment-anything.git
+
+# SAM 2 (可选，用于视频处理)
+# git+https://github.com/facebookresearch/segment-anything-2.git
+
+# 系统监控
+psutil>=5.8.0
+GPUtil>=1.4.0
+
+# 视频处理
+moviepy>=1.0.3
+imageio>=2.9.0
+imageio[ffmpeg]>=2.9.0
+
+# 并发处理
+concurrent.futures
+threading
+multiprocessing
+
+# 数据处理
+pandas>=1.3.0
+scipy>=1.7.0
+
+# 日志和进度
+rich>=10.0.0
+click>=8.0.0
+
+# 其他工具
+pathlib
+json5
+yaml
+
+# 开发工具 (可选)
+pytest>=6.0.0
+black>=21.0.0
+flake8>=3.9.0
